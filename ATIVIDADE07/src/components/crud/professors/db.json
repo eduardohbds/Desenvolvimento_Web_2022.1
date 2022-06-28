@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "Wladimir",
+    "university": "UFC Quixadá",
+    "degree": "Doutorado"
+  },
+  {
+    "id": 1,
+    "name": "Fábio",
+    "university": "UFC Quixadá",
+    "degree": "Doutorado"
+  },
+  {
+    "id": 2,
+    "name": "André",
+    "university": "UFC Quixadá",
+    "degree": "Doutorado"
+  },
+  {
+    "id": 3,
+    "name": "Andréia",
+    "university": "UFC Quixadá",
+    "degree": "Doutorado"
+  },
+  {
+    "name": "David Sena",
+    "university": "UFC Digital",
+    "degree": "Doutorado",
+    "id": 4
+  },
+  {
+    "name": "David Senna",
+    "university": "UFC digital",
+    "degree": "Doutorado",
+    "id": 5
+  }
+]
